@@ -2,7 +2,7 @@
 
 ## Электромагнетизм
 
-1. Angry Protons [смотреть описание]()
+1. Angry Protons [смотреть описание](https://github.com/FITP-FOCST-2sem-y28/repo-template/tree/main/electromagnetism#angry-protons)
 2. Модель магнитного поля структуры [смотреть описание]()
 3. Модель динамика/колонки [смотреть описание]()
 4. БСЛ [смотреть описание]()
